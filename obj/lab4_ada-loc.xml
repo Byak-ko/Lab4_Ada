@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Ada\Lab4(2)\lab4_ada.gpr</vfs_project>
+      <vfs_file>C:\Ada\Lab4(2)\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Ada\#208;#157;#208;#190;#208;#178;#208;#176; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\lab4_ada.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Ada\#208;#157;#208;#190;#208;#178;#208;#176; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\lab4_ada.gpr</vfs_project>
+      <vfs_file >C:\Ada\#208;#157;#208;#190;#208;#178;#208;#176; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
